@@ -15,6 +15,7 @@
 		D302C4332D1DADAF000EF94B /* Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = D302C4322D1DADAF000EF94B /* Station.swift */; };
 		D302C4352D1DADFB000EF94B /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D302C4342D1DADFB000EF94B /* LocationManager.swift */; };
 		D302C43D2D1F2523000EF94B /* MBTAAPIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D302C43C2D1F2523000EF94B /* MBTAAPIClient.swift */; };
+		D302C43F2D21AF2F000EF94B /* testAPICall.swift in Sources */ = {isa = PBXBuildFile; fileRef = D302C43E2D21AF2F000EF94B /* testAPICall.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D302C4342D1DADFB000EF94B /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		D302C43A2D1DAF18000EF94B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		D302C43C2D1F2523000EF94B /* MBTAAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MBTAAPIClient.swift; sourceTree = "<group>"; };
+		D302C43E2D21AF2F000EF94B /* testAPICall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAPICall.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 		D302C42C2D1DAC89000EF94B /* src */ = {
 			isa = PBXGroup;
 			children = (
+				D302C43E2D21AF2F000EF94B /* testAPICall.swift */,
 			);
 			path = src;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				D302C42F2D1DAD84000EF94B /* ArrivalPreds.swift in Sources */,
 				D302C4352D1DADFB000EF94B /* LocationManager.swift in Sources */,
 				D302C43D2D1F2523000EF94B /* MBTAAPIClient.swift in Sources */,
+				D302C43F2D21AF2F000EF94B /* testAPICall.swift in Sources */,
 				D302C4332D1DADAF000EF94B /* Station.swift in Sources */,
 				D302C4002D1DAA87000EF94B /* MBTAWidgetApp.swift in Sources */,
 			);
